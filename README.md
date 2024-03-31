@@ -1,0 +1,2 @@
+# Chinook-Music-Store-Optimization-Enhancing-Profitability-Through-Strategic-Insights
+In this project, I delved deep into Chinook's database using SQLite3, extracting valuable data for analysis. Utilizing powerful data manipulation and visualization tools like Pandas, Matplotlib, and Seaborn, I uncovered key insights to drive actionable strategies for enhancing sales and profitability across multiple countries.
